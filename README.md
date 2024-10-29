@@ -7,6 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Static Badge](https://img.shields.io/badge/-pycharm-black?style=social&logo=pycharm&logoColor=%23000000)
 
 ===================================================================================
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrSharapov&show_icons=true&theme=radical)
 
 student programmer Python
 -------------------------
